@@ -1,4 +1,4 @@
-# accident_predictor
+# Accident Detection and Emergency Alert System
 
 A new Flutter project.
 
