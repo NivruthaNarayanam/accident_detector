@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "964966609672",
+    "project_id": "accident-detector-576d7",
+    "storage_bucket": "accident-detector-576d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964966609672:android:6b37519d5edf841a5632bd",
+        "android_client_info": {
+          "package_name": "com.example.accident_predictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964966609672-7m86674mtpvpvghom424ucu95h1jsfal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.accident_predictor",
+            "certificate_hash": "f5e00d1d2812ec14462c3a1fb987426a63cd57ef"
+          }
+        },
+        {
+          "client_id": "964966609672-fdciosank5jkqc64kd628nn2pejm5ckb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDufNHx7RvPiaCH1Rq7XEpDwjO5R2W8GTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964966609672-fdciosank5jkqc64kd628nn2pejm5ckb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "964966609672-h8ng9gf42g49jbeue8pl95qfacnbvpor.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.accidentPredictor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
